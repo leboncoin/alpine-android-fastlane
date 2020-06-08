@@ -27,6 +27,7 @@ RUN apk update && \
         ruby-rdoc \
         ruby-irb \
         ruby-dev \
+        ruby-webrick \
         openssh \
         g++ \
         make \
